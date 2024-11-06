@@ -5,15 +5,8 @@ body {
 .navbar {
   --bs-nav-link-hover-color: #5299d3;
   font-family: "Roboto", sans-serif;
-  border-bottom: 2px solid gray;
-}
-.carousel-inner {
-  max-height: 90dvh;
 }
 
-.btn {
-  width: max-content;
-}
 .hero {
   height: calc(100dvh - 62px);
   min-height: 600px;
