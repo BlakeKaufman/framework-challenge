@@ -46,3 +46,11 @@ body {
   object-fit: cover;
   object-position: center;
 }
+.information {
+  width: 95%;
+  max-width: 1000px;
+}
+.informationImage {
+  width: calc(100% - 200px);
+  max-width: 50%;
+}
